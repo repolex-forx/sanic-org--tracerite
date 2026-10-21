@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sanic-org/tracerite/commit/c4080c02d136bbaaad9969f50a1beedaa6695bf1",
       "git:hexsha": "c4080c02d136bbaaad9969f50a1beedaa6695bf1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T00:14:28.025167+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sanic-org/tracerite/commit/75de9ae5bec35cec7a62ec6c2d207336bfe7d544",
